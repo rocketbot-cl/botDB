@@ -2,6 +2,7 @@
 
 Addon to restore a robot to previous versions
 
+![alt text](https://raw.githubusercontent.com/rocketbot-cl/botDB/master/example/botDB.png)
 
 <h2>License</h2>
 
